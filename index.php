@@ -203,3 +203,6 @@ require_once BASEPATH.'core/CodeIgniter.php';
 
 /* End of file index.php */
 /* Location: ./index.php */
+
+//Penambahan komentar baris pertama
+//Penambahan komentar baris kedua
