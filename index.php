@@ -205,4 +205,3 @@ require_once BASEPATH.'core/CodeIgniter.php';
 /* Location: ./index.php */
 
 //Penambahan komentar baris pertama
-//Penambahan komentar baris kedua
